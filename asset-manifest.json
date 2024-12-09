@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WARDROBEWAVE/static/css/main.c0d183cd.css",
-    "main.js": "/WARDROBEWAVE/static/js/main.9222c247.js",
+    "main.js": "/WARDROBEWAVE/static/js/main.1abe231f.js",
     "static/js/787.4ad804cd.chunk.js": "/WARDROBEWAVE/static/js/787.4ad804cd.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/WARDROBEWAVE/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/main.png.jpg": "/WARDROBEWAVE/static/media/main.png.6a1127946ccd5fedde98.jpg",
@@ -12,11 +12,11 @@
     "static/media/clothinglogo.jpg": "/WARDROBEWAVE/static/media/clothinglogo.7bab5546df0c6b8fa038.jpg",
     "index.html": "/WARDROBEWAVE/index.html",
     "main.c0d183cd.css.map": "/WARDROBEWAVE/static/css/main.c0d183cd.css.map",
-    "main.9222c247.js.map": "/WARDROBEWAVE/static/js/main.9222c247.js.map",
+    "main.1abe231f.js.map": "/WARDROBEWAVE/static/js/main.1abe231f.js.map",
     "787.4ad804cd.chunk.js.map": "/WARDROBEWAVE/static/js/787.4ad804cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0d183cd.css",
-    "static/js/main.9222c247.js"
+    "static/js/main.1abe231f.js"
   ]
 }
